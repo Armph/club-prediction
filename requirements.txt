@@ -1,0 +1,6 @@
+streamlit
+torch
+pandas
+Pillow
+transformers
+streamlit-js-eval
